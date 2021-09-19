@@ -1,0 +1,21 @@
+{
+  "name": "npm-bug-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "config": {
+    "array": [
+      "item1",
+      "item2", "item3"
+    ]
+  },
+  "keywords": [],
+  "author": "kirmas@phytech.edu",
+  "engines": {
+    "npm": ">=7"
+  },
+  "license": "MIT"
+}
